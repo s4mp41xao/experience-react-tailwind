@@ -1,4 +1,4 @@
-<h1 align="center"> WebStore </h1>
+<h1 align="center"> React & Tailwind Website </h1>
 
 <p align="center">
 Projeto totalmente responsivo feito em React JS com deploy na Vercel utilizando Tailwind CSS na estilização pela primeira vez.
