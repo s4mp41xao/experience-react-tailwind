@@ -2,6 +2,7 @@ import Navbar from './components/Navbar.jsx';
 import Hero from './components/Hero.jsx'
 import Offers from './components/Offers.jsx';
 import Plan from './components/Plan.jsx';
+import Rooms from './components/Rooms.jsx';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <Offers />
       <Plan />
+      <Rooms />
     </div>
   );
 }
